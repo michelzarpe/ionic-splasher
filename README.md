@@ -1,4 +1,3 @@
 # ionic-splasher
-# config.xml
-# <preference name="SplashScreenDelay" value="0"/>
-# <preference name="ShowSplashScreen" value="false"/>
+Esse link abaixo é outra forma acredito que a mais correta:
+http://www.andrefelizardo.com.br/blog/splash-screen-ionic-e-icone/
